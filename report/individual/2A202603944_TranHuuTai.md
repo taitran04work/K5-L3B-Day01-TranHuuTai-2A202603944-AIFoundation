@@ -71,6 +71,6 @@ Chọn BoW + MLP làm mô hình chính vì đáp ứng yêu cầu tốc độ v�
 
 |Phần |	Bạn hỏi AI gì (prompt)|	AI trả lời/viết gì|	Bạn đã sửa / kiểm chứng gì|
 | --- | --- | --- | --- |
-|Phân loại SMS|	Cách đánh giá mô hình spam|	Giải thích Accuracy, Precision, Recall, F1	Đối chiếu kết quả notebook|
+|Phân loại SMS|	Cách đánh giá mô hình spam|	Giải thích Accuracy, Precision, Recall, F1	|Đối chiếu kết quả notebook|
 |MLP|	Cách cải thiện mô hình|	Giải thích ReLU và Overfitting|	Thử nghiệm trực tiếp trên notebook|
-|LLM	|Cách tạo prompt JSON|	Đề xuất prompt và parse kết quả	Kiểm tra JSON output|
+|LLM	|Cách tạo prompt JSON|	Đề xuất prompt và parse kết quả|	Kiểm tra JSON output|
