@@ -2,9 +2,9 @@
 
 > Đổi tên file này thành `MSSV_HoTen.md` của bạn, ví dụ `2A20260000_NguyenVanAn.md`, rồi điền từng mục. Xoá các dòng hướng dẫn in nghiêng khi xong.
 
-- **MSSV:**
-- **Họ và tên:**
-- **SEED** (in ở ô đầu notebook):
+- **MSSV: 2A202603944**
+- **Họ và tên: Trần Hữu Tài**
+- **SEED** (in ở ô đầu notebook): https://colab.research.google.com/drive/192QRJMZOMPvTu_xqRfK4gVwV5lmF78jB?usp=sharing
 
 ## 1. Bằng chứng
 
