@@ -16,11 +16,11 @@
 
 ## 2. Kết quả chính
 
-|Phương	 pháp|	F1	| test	F1 S	UB 40|	p95 (ms	/tin)|	USD/1k tin|
-| --- | --- | --- | --- | --- | --- |
+|Phương	 pháp|	F1 test |	F1 SUB 40|	p95 (ms	/tin)|	USD/1k tin|
+| --- | --- | --- | --- | --- |
 |BoW + Logistic Regr	ession|		0.878|		0.889|		0.055|	0|
-|BoW + MLP|	0.948|	0.94|	7|	0.47|0|	0|
-|MiniLM + |k	|NN	0.9	|07	1.0	00	52.4|2|5	0|
+|BoW + MLP|	0.948|	0.94|	7|	0.470|	0|
+|MiniLM + kNN|	0.907|	1.000|	52.425|	0|
 |MiniLM + Logistic Regression|	0.955|	1.000|	104.471|	0|
 |Mi	nLM + MLP head	|0.969  |1.000|	35.213|	0|
 |LLM nhỏ — zero-shot|	—	|1.000|	1351.324|	0.011|
